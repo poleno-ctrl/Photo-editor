@@ -1,2 +1,2 @@
 # Photo-editor
-M,y own photo editor on python
+My own photo editor on python
