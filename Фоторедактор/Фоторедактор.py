@@ -1,3 +1,6 @@
+import os
+os.system('pip install pillow')
+
 from PIL import Image
 from random import randint as ran
 
